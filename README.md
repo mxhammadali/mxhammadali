@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">MSc AI student learning full stack development (Ruby on Rails, React).</h3>
+<h3 align="center">MSc AI student learning .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-94&label=Profile%20views&color=0e75b6&style=flat" alt="ma-94" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ma-94" alt="ma-94" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working on my **Dissertation**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/muhammadali](https://troopl.com/muhammadali)
-
-- 💬 Ask me about **Ruby on Rails, React**
+- 💬 Ask me about **Deep Neural Networks, DAOs**
 
 - 📫 How to reach me **muhammadali94@zohomail.com**
 
