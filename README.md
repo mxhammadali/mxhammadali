@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">MSc AI student seeking data analyst/ data scientist roles in London or remote .</h3>
+<h3 align="center">MSc AI student seeking front-end developer roles in London or remote .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-94&label=Profile%20views&color=0e75b6&style=flat" alt="ma-94" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ma-94" alt="ma-94" /></a> </p>
 
-- 🌱 I’m currently working on **A DNN model for cryptocurrency price prediction using sentiment analysis & fundamental data**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Deep Neural Networks, DAOs**
+- 💬 Ask me about **Deep Neural Networks, web3**
 
 - 📫 How to reach me **muhammadali94@zohomail.com**
 
