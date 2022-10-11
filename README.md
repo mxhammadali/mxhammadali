@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ma-94" alt="ma-94" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TensorFlow js, React**
 
 - 💬 Ask me about **Deep Neural Networks, web3**
 
