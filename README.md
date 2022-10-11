@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
-<h3 align="center">MSc AI student seeking front-end developer roles in London or remote .</h3>
+<!-- <h3 align="center">AI postgraduate passionate about working  .</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ma-94&label=Profile%20views&color=0e75b6&style=flat" alt="ma-94" /> </p>
 
